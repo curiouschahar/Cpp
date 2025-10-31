@@ -1,0 +1,1 @@
+This repository contains a collection of C++ programs covering fundamental concepts, problem-solving exercises, and practical implementations. It’s designed to help beginners and intermediate learners strengthen their understanding of C++ programming.
